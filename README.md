@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
-![pynput](https://img.shields.io/badge/Library-pynput-orange)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 # Line Counter
