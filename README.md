@@ -18,6 +18,13 @@ This program is a line counter written in Python with a graphical user interface
 
 ![screenshot](https://user-images.githubusercontent.com/92639080/233869398-2340f6df-4e78-4a7a-b2e4-e84be2441aef.png)
 
+The calcul is simple, a pocket book like Isaac Asimov , cycle of fundation 1 you have 250 pages with almost 10.000 lines.
+
+So we are counting here every lines even `spaces`, comments, or one word lines, then divide by 10.000.
+
+If you think that empty lines, or single words should not be counted in and compared to a line from Isaac Asimov book, remember when you was learning python and you wasn't founding the mistakes because of a single `space`. And also, remember empty pages in books, so yes, I'm counting empty lines.
+
+
 
 # Key Features
 
