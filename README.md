@@ -15,6 +15,10 @@
 
 This program is a line counter written in Python with a graphical user interface (GUI) based on PyQt5. The program allows you to count the number of lines in text files within a user-selected folder.
 
+
+![screenshot](https://user-images.githubusercontent.com/92639080/233869398-2340f6df-4e78-4a7a-b2e4-e84be2441aef.png)
+
+
 # Key Features
 
 - Simple and intuitive user interface for selecting a folder and starting the line counting process.
