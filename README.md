@@ -18,7 +18,7 @@ This program is a line counter written in Python with a graphical user interface
 
 ![screenshot](https://user-images.githubusercontent.com/92639080/233869398-2340f6df-4e78-4a7a-b2e4-e84be2441aef.png)
 
-The calcul is simple, a pocket book like Isaac Asimov , cycle of fundation 1 you have 250 pages with almost 10.000 lines.
+The calcul is simple, a pocket book like Isaac Asimov , cycle of fundation 1 you have ~250 pages with ~10.000 lines.
 
 The program will count every lines, obviously `spaces`, comments, or one word lines, then divide by 10.000.
 
