@@ -6,13 +6,11 @@
 
 This program is a line counter written in Python with a graphical user interface (GUI) based on PyQt5. The program allows you to count the number of lines in text files within a user-selected folder.
 
-![interface](https://user-images.githubusercontent.com/92639080/137766341-5a42e45a-7d63-4f0e-8f33-5cfa9b3f3f38.png)
-
 ## Key Features
 
 - Simple and intuitive user interface for selecting a folder and starting the line counting process.
 - Cross-platform line counter that works on Windows, macOS, and Linux.
-- Supports a variety of file types including .txt, .py, .js, .md, .html, .css, .c, .h, .o, .cpp, .q, .rs, .jl, and .go.
+- Supports a variety of file types including .txt, .py, .js, .md, .html, .css, .c, .h, .o, .cpp, .q, .rs, .jl, and .go (change for more in the code)
 - Real-time update of the total number of lines processed with a humorous comparison to the number of lines in Isaac Asimov's "Foundation" series.
 
 ## Usage
