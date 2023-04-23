@@ -1,6 +1,5 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
+[![Download Books you wrote as developper](https://img.shields.io/sourceforge/dt/that-books-i-wrote.svg)](https://sourceforge.net/projects/that-books-i-wrote/files/latest/download)
+
 
 ```
 ██╗     ██╗███╗   ██╗███████╗     ██████╗ ██████╗ ██╗   ██╗███╗   ██╗████████╗███████╗██████╗ 
@@ -10,6 +9,9 @@
 ███████╗██║██║ ╚████║███████╗    ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
 ╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝     ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 ```
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 # Description
 
@@ -21,6 +23,7 @@ This program is a line counter written in Python with a graphical user interface
 The calcul is simple, a pocket book like Isaac Asimov , cycle of fundation 1 you have ~250 pages with ~10.000 lines.
 
 The program will count every lines, obviously `spaces`, comments, or one word lines, then divide by 10.000.
+
 
 
 # Key Features
@@ -40,7 +43,7 @@ The program will count every lines, obviously `spaces`, comments, or one word li
 
 This program is licensed under the MIT license, which means you can use, modify, and distribute it freely, as long as you mention the original author and include a copy of the license. See the LICENSE.md file for more information.
 
-
+[![Download Books you wrote as developper](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/that-books-i-wrote/files/latest/download)
 
 ```
 ___ _  _ ___ ____ ____ _ ____ _    
