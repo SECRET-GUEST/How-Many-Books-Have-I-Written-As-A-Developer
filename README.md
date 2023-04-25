@@ -78,7 +78,7 @@ Here are possibilities to run the script;
 
 ## 1. Run by simple click on APPLICATION.exe
 
-The .exe file is a portable version made for microsoft users with pyinstaller, you can download only this file and nothing else.
+The .exe file can be found in the folder or it's in portable version made for microsoft users with pyinstaller, you can download only this file and nothing else.
 
 
 ## 2. Run with Python
