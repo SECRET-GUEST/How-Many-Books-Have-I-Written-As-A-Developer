@@ -24,6 +24,17 @@ The calcul is simple, a pocket book like Isaac Asimov , cycle of fundation 1 you
 
 The program will count every lines, obviously `spaces`, comments, or one word lines, then divide by 10.000.
 
+BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
+
+- A python tools to remove fast all comments of a page : https://github.com/SECRET-GUEST/silence
+- Make a list of all your fonts, with an image : https://github.com/SECRET-GUEST/font_lister
+- Handling errors to make quickly python programs with : https://github.com/SECRET-GUEST/logInfo
+- A bunch of themes for python or else : https://github.com/SECRET-GUEST/themes
+
+And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
+
+
+
 
 
 # Key Features
