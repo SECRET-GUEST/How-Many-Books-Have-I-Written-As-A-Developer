@@ -24,16 +24,6 @@ The calcul is simple, a pocket book like Isaac Asimov , cycle of fundation 1 you
 
 The program will count every lines, obviously `spaces`, comments, or one word lines, then divide by 10.000.
 
-BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
-
-- A python tools to remove fast all comments of a page : https://github.com/SECRET-GUEST/silence
-- Make a list of all your fonts, with an image : https://github.com/SECRET-GUEST/font_lister
-- Handling errors to make quickly python programs with : https://github.com/SECRET-GUEST/logInfo
-- A bunch of themes for python or else : https://github.com/SECRET-GUEST/themes
-
-And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
-
-
 
 
 
@@ -55,6 +45,20 @@ And there are more in tiny script (without graphical user interface but easy to 
 This program is licensed under the MIT license, which means you can use, modify, and distribute it freely, as long as you mention the original author and include a copy of the license. See the LICENSE.md file for more information.
 
 [![Download Books you wrote as developper](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/that-books-i-wrote/files/latest/download)
+
+
+# :gem: Recommendations  
+
+In your quest for more tools to enhance your desktop productivity, these additional repositories are worth a look:
+
+- [Silence](https://github.com/SECRET-GUEST/silence) : A Python tool designed to swiftly remove all comments from a page.
+- [Font Lister](https://github.com/SECRET-GUEST/font_lister) : Generates a comprehensive list of your fonts, complete with images.
+- [LogInfo](https://github.com/SECRET-GUEST/logInfo) : Streamlines error handling to accelerate the development of Python programs.
+- [Themes](https://github.com/SECRET-GUEST/themes) : A collection of themes you can use in Python and other contexts.
+
+For more useful scripts without a graphical user interface but that are nonetheless user-friendly, check out: 
+- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
+
 
 
 ```
